@@ -1,4 +1,4 @@
-# exam-announcer
+# Exam-announcer
 An app helps to track exam announcements and prompt the notification when an announcement is needed.
 
 Designed initially for tracking IB exam announcements.
